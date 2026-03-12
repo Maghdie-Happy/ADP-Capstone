@@ -1,6 +1,8 @@
 package za.ac.cput.domain;
 
 /**
+ * Warehouse
+ * Warehouse model class
  * Warehouse Builder
  * Tebogo Pii 230226442
  */
