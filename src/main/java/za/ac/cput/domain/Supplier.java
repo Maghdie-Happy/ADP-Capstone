@@ -2,7 +2,6 @@ package za.ac.cput.domain;
 
 /**
  * Supplier.java
- * Supplier model class
  * Author: Inam Ngqokomashe (222660155)
  *Date: 09 March 2026
  */
