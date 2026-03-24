@@ -2,8 +2,14 @@ package za.ac.cput.repository;
 
 import org.junit.jupiter.api.*;
 import za.ac.cput.domain.Customer;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+/**
+ * WarehouseRepositoryTests.java
+ * Warehouse tests
+ * Author: Tebogo Pii (230226442)
+ * Date: 23 March 2026
+ */
 
 public class WarehouseRepositoryTests {
     @Test

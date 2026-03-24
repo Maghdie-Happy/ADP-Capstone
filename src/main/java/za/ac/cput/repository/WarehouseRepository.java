@@ -3,6 +3,13 @@ package za.ac.cput.repository;
 import za.ac.cput.domain.Warehouse;
 import java.util.*;
 
+/**
+ * WarehouseRepository.java
+ * Warehouse Repository Class
+ * Author: Tebogo Pii (230226442)
+ * Date: 24 March 2026
+ */
+
 public class WarehouseRepository implements IWarehouseRepository {
 
     private static WarehouseRepository repository = null;
